@@ -1,0 +1,3 @@
+/Users/yashkapoor/Desktop/Cameraview/build/CMakeFiles/main.dir
+/Users/yashkapoor/Desktop/Cameraview/build/CMakeFiles/edit_cache.dir
+/Users/yashkapoor/Desktop/Cameraview/build/CMakeFiles/rebuild_cache.dir
